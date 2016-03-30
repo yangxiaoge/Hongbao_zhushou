@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\layout\\splash.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\layout\\detail.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\layout\\detail.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\layout\\confirm_dialog_layout.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\layout\\confirm_dialog_layout.xml"
+    }
+]

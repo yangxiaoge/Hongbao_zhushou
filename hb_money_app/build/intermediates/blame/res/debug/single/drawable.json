@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\btn_red.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_focus.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\btn_red_focus.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\item_highlight_bkg.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\item_highlight_bkg.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_red_normal.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\btn_red_normal.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_button_bkg.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\dialog_button_bkg.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bkg.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\dialog_bkg.xml"
+    },
+    {
+        "merged": "E:\\GitHub_Project\\hb_money\\hb_money_app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_default_style.xml",
+        "source": "E:\\GitHub_Project\\hb_money\\hb_money_app\\src\\main\\res\\drawable\\back_button_default_style.xml"
+    }
+]
